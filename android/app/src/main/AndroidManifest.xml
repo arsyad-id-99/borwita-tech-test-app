@@ -4,7 +4,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
     <application
-        android:label="borwita_tech_test_app"
+        android:label="Arsyad Borwita Tech Test App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
